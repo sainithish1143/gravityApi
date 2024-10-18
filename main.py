@@ -19,7 +19,12 @@ sku_file_path = os.path.abspath("temp/sku.csv")
 metadata_json = csv_to_json(metadata_file_path)
 sku_json = csv_to_json(sku_file_path)
 
-print(metadata_json)
+# sample
+@app.get('/api/v1/location')
+def location():
+    return metadata_json[1]
+
+
 
 
 
