@@ -1,3 +1,6 @@
+### Problem tatement ###
+[GRAVITY_CODE_TEST.DOCX](https://github.com/sainithish1143/gravityApi/blob/master/Gravity%20CODE%20TEST%20-%20PYTHON.docx)
+
 ### Steps to be performed
 - Pull this repo in your workspace
     - Open your terminal or command prompt.
