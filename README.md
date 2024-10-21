@@ -4,7 +4,7 @@
 ### Steps to be performed
 - Pull this repo in your workspace
     - Open your terminal or command prompt.
-    - cd /path/to/your/workspace
+    - `cd /path/to/your/workspace`
     - Run the git clone command `git clone https://github.com/sainithish1143/test.git`.
 
 - run `setup.sh` to install dependencies and starting the server
